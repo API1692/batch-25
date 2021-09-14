@@ -5,4 +5,3 @@ public class Demo
         System.out.println( "Hello Anu!" );
     }
 }
-© 2021 GitHub, Inc.
